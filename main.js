@@ -169,7 +169,7 @@ $(() => {
         row = 400 / cellSize;
         column = 600 / cellSize;
         currentLevel = 1;
-        hintCount = 30;
+        hintCount = 3;
 
         $("#count").html(hintCount);
 
